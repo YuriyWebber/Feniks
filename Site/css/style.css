@@ -151,7 +151,7 @@ b {
 /* Header 1 */
 .header_1 {
   padding-bottom: 113px;
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .header_1 .logo {
@@ -194,7 +194,7 @@ b {
 
 /* Header 3 */
 .header_3 {
-  background: #F5F5F5;
+  background:  #f8fafd;
   padding-bottom: 170px;
 }
 
@@ -338,7 +338,7 @@ b {
 
 /* Header 7 */
 .header_7 {
-  background: #F5F5F5;
+  background:  #f8fafd;
   overflow: hidden;
 }
 
@@ -376,7 +376,7 @@ b {
 
 /* Header 9 */
 .header_9 {
-  background: #F5F5F5;
+  background:  #f8fafd;
   padding-bottom: 216px;
 }
 
@@ -538,7 +538,7 @@ b {
 }
 
 .header_14 form {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .header_14 form input {
@@ -576,13 +576,13 @@ b {
 
 .header_14 form .separate span {
   position: relative;
-  background: #F5F5F5;
+  background:  #f8fafd;
   z-index: 1;
 }
 
 /* Header 15 */
 .header_15 {
-  background: #F5F5F5;
+  background:  #f8fafd;
   padding-bottom: 76px;
 }
 
@@ -661,7 +661,7 @@ b {
 
 /* Header 19 */
 .header_19 {
-  background: #F5F5F5;
+  background:  #f8fafd;
   overflow: hidden;
 }
 
@@ -806,17 +806,17 @@ b {
 
 /* Navigation 1 */
 .navigation_1 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Navigation 2 */
 .navigation_2 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Navigation 3 */
 .navigation_3 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .navigation_3 form button {
@@ -825,7 +825,7 @@ b {
 
 /* Navigation 4 */
 .navigation_4 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .navigation_4 .btn {
@@ -838,7 +838,7 @@ b {
 
 /* Navigation 5 */
 .navigation_5 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Navigation 6 */
@@ -861,7 +861,7 @@ b {
 
 /* Navigation 7 */
 .navigation_7 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .navigation_7 .btn {
@@ -880,7 +880,7 @@ b {
 
 /* Navigation 8 */
 .navigation_8 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .navigation_8.with_border {
@@ -893,12 +893,12 @@ b {
 
 /* Navigation 9 */
 .navigation_9 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Navigation 10 */
 .navigation_10 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .navigation_10 .nav_logo {
@@ -1080,22 +1080,22 @@ header > div > div{
 
 /* Content 1 */
 .content_1 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Content 2 */
 .content_2 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Content 3 */
 .content_3 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Content 4 */
 .content_4 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Content 5 */
@@ -1137,22 +1137,22 @@ header > div > div{
 
 /* Content 8 */
 .content_8 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Content 9 */
 .content_9 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Content 10 */
 .content_10 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Content 11 */
 .content_11 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .content_11 h2, .content_11 p {
@@ -1179,7 +1179,7 @@ header > div > div{
 
 /* Content 13 */
 .content_13 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .content_13 .inner {
@@ -1243,7 +1243,7 @@ header > div > div{
 
 /* Content 18 */
 .content_18 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .content_18 .opening_tabs .tab_opener .fa:before {
@@ -1271,7 +1271,7 @@ header > div > div{
 
 /* Content 20 */
 .content_20 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .content_20 .content_20_line {
@@ -1297,12 +1297,12 @@ header > div > div{
 
 /* Content 21 */
 .content_21 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Content 22 */
 .content_22 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .content_22 .slick-prev, .content_22 .slick-next {
@@ -1366,7 +1366,7 @@ header > div > div{
 
 /* Content 24 */
 .content_24 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .content_24 .video {
@@ -1450,7 +1450,7 @@ header > div > div{
 
 /* Content 26 */
 .content_26 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .content_26 .video .poster {
@@ -1528,17 +1528,17 @@ header > div > div{
 
 /* Content 28 */
 .content_28 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Content 29 */
 .content_29 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Content 30 */
 .content_30 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .content_30 .block {
@@ -1547,7 +1547,7 @@ header > div > div{
 
 /* Content 31 */
 .content_31 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .content_31 .slider .slide {
@@ -1556,7 +1556,7 @@ header > div > div{
 
 /* Content 32 */
 .content_32 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .content_32 .block {
@@ -1574,17 +1574,17 @@ header > div > div{
 
 /* Content 34 */
 .content_34 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Content 35 */
 .content_35 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Content 36 */
 .content_36 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .content_36 .block {
@@ -1609,7 +1609,7 @@ header > div > div{
 
 /* Content 38 */
 .content_38 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .content_38 .block_left .col {
@@ -1626,7 +1626,7 @@ header > div > div{
 
 /* Content 39 */
 .content_39 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .content_39 .scrolling_holder {
@@ -1653,7 +1653,7 @@ header > div > div{
 
 /* Content 40 */
 .content_40 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .content_40 #copy_from_me {
@@ -1667,17 +1667,17 @@ header > div > div{
 
 /* Feature 1 */
 .feature_1 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Feature 2 */
 .feature_2 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Feature 3 */
 .feature_3 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .feature_3 .block {
@@ -1706,7 +1706,7 @@ header > div > div{
 }
 
 .feature_5 .block {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .feature_5 .block img {
@@ -1732,17 +1732,17 @@ header > div > div{
 
 /* Feature 7 */
 .feature_7 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Feature 8 */
 .feature_8 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Feature 9 */
 .feature_9 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Feature 10 */
@@ -1762,7 +1762,7 @@ header > div > div{
 
 /* Feature 11 */
 .feature_11 {
-  background: #F5F5F5;
+  background:  #f8fafd;
   overflow: hidden;
 }
 
@@ -1780,22 +1780,22 @@ header > div > div{
 
 /* Feature 13 */
 .feature_13 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Feature 14 */
 .feature_14 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Feature 15 */
 .feature_15 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Feature 16 */
 .feature_16 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Feature 17 */
@@ -1812,7 +1812,7 @@ header > div > div{
 
 /* Feature 18 */
 .feature_18 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Feature 19 */
@@ -1848,7 +1848,7 @@ header > div > div{
 
 /* Feature 20 */
 .feature_20 {
-  background: #F5F5F5;
+  background:  #f8fafd;
   overflow: hidden;
 }
 
@@ -1871,12 +1871,12 @@ header > div > div{
 
 /* Feature 22 */
 .feature_22 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Feature 23 */
 .feature_23 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .feature_23 .video .poster {
@@ -1918,7 +1918,7 @@ header > div > div{
 
 /* Feature 26 */
 .feature_26 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Feature 27 */
@@ -1969,12 +1969,12 @@ header > div > div{
 }
 
 .form_1 form {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Form 2 */
 .form_2 {
-  background: #F5F5F5;
+  background:  #f8fafd;
   overflow: hidden;
 }
 
@@ -1984,7 +1984,7 @@ header > div > div{
 
 /* Form 3 */
 .form_3 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .form_3 .buttons span {
@@ -2004,7 +2004,7 @@ header > div > div{
 }
 
 .form_4 form {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .form_4 form .form_4_menu {
@@ -2072,13 +2072,13 @@ header > div > div{
 
 .form_4 form .separate span {
   position: relative;
-  background: #F5F5F5;
+  background:  #f8fafd;
   z-index: 1;
 }
 
 /* Form 5 */
 .form_5 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Form 6 */
@@ -2094,7 +2094,7 @@ header > div > div{
 }
 
 .form_6 form {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Form 7 */
@@ -2153,7 +2153,7 @@ header > div > div{
 
 /* Form 11 */
 .form_11 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .form_11 .inner {
@@ -2167,7 +2167,7 @@ header > div > div{
 
 /* Form 13 */
 .form_13 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .form_13 .form_block {
@@ -2216,7 +2216,7 @@ header > div > div{
 
 /* Form 14 */
 .form_14 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .form_14 form {
@@ -2224,7 +2224,7 @@ header > div > div{
 }
 
 .form_14 form .input {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .form_14 form .is_valid_icon {
@@ -2245,7 +2245,7 @@ header > div > div{
 }
 
 .form_15 form {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .form_15 form .form_15_menu {
@@ -2303,7 +2303,7 @@ header > div > div{
 
 /* Call to Action 2 */
 .call_to_action_2 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .call_to_action_2 .inner {
@@ -2312,7 +2312,7 @@ header > div > div{
 
 /* Call to Action 3 */
 .call_to_action_3 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .call_to_action_3 .inner {
@@ -2453,7 +2453,7 @@ header > div > div{
 
 /* Call to Action 7 */
 .call_to_action_7 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Call to Action 8 */
@@ -2475,7 +2475,7 @@ header > div > div{
 
 /* Call to Action 10 */
 .call_to_action_10 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Call to Action 11 */
@@ -2495,17 +2495,17 @@ header > div > div{
 
 /* Call to Action 13 */
 .call_to_action_13 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .call_to_action_13 .btn.transparent_white:hover {
-  background: #F5F5F5;
+  background:  #f8fafd;
   color: #2b48e7;
 }
 
 /* Call to Action 14 */
 .call_to_action_14 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .call_to_action_14 .block_right_border {
@@ -2514,7 +2514,7 @@ header > div > div{
 
 /* Call to Action 15 */
 .call_to_action_15 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .call_to_action_15 .inner {
@@ -2523,12 +2523,12 @@ header > div > div{
 
 /* Call to Action 16 */
 .call_to_action_16 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Call to Action 17 */
 .call_to_action_17 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Call to Action 18 */
@@ -2538,7 +2538,7 @@ header > div > div{
 
 /* Call to Action 19 */
 .call_to_action_19 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .call_to_action_19 .block {
@@ -2555,7 +2555,7 @@ header > div > div{
 
 /* Call to Action 20 */
 .call_to_action_20 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .call_to_action_20 .btn {
@@ -2635,7 +2635,7 @@ header > div > div{
 
 /* Call to Action 23 */
 .call_to_action_23 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .call_to_action_23 .bg_video {
@@ -2648,7 +2648,7 @@ header > div > div{
 
 /* Team 1 */
 .team_1 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .team_1 .block {
@@ -2676,7 +2676,7 @@ header > div > div{
 }
 
 .team_2 .inner {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .team_2 .inner .block.bordered {
@@ -2686,7 +2686,7 @@ header > div > div{
 
 /* Team 3 */
 .team_3 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .team_3 .block:hover {
@@ -2695,7 +2695,7 @@ header > div > div{
 
 /* Team 4 */
 .team_4 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .team_4 .block:hover {
@@ -2717,7 +2717,7 @@ header > div > div{
 
 /* Pricing Table 1 */
 .pricing_table_1 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .pricing_table_1 .block {
@@ -2748,7 +2748,7 @@ header > div > div{
 
 /* Pricing Table 2 */
 .pricing_table_2 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .pricing_table_2 .img {
@@ -2759,7 +2759,7 @@ header > div > div{
 
 /* Pricing Table 3 */
 .pricing_table_3 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .pricing_table_3 .overflow {
@@ -2837,7 +2837,7 @@ header > div > div{
 
 /* Pricing Table 5 */
 .pricing_table_5 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .pricing_table_5 .block {
@@ -2878,12 +2878,12 @@ header > div > div{
 }
 
 .pricing_table_6 .change_slide i {
-  background: #F5F5F5;
+  background:  #f8fafd;
   left: 0px;
 }
 
 .pricing_table_6 .slider .block {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .pricing_table_6 .slider .block img {
@@ -2893,7 +2893,7 @@ header > div > div{
 
 /* Pricing Table 7 */
 .pricing_table_7 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .pricing_table_7 .inner {
@@ -2939,7 +2939,7 @@ header > div > div{
 
 /* Contact 2 */
 .contact_2 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .contact_2 textarea.input {
@@ -2980,12 +2980,12 @@ header > div > div{
 }
 
 .contact_4 form {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Contact 5 */
 .contact_5 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .contact_5 textarea.input {
@@ -2995,7 +2995,7 @@ header > div > div{
 
 /* Contact 6 */
 .contact_6 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .contact_6 form {
@@ -3003,7 +3003,7 @@ header > div > div{
 }
 
 .contact_6 form .input {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .contact_6 form .input_block {
@@ -3012,7 +3012,7 @@ header > div > div{
 
 /* Contact 7 */
 .contact_7 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .contact_7 .input_block {
@@ -3045,12 +3045,12 @@ header > div > div{
 
 /* Contact 10 */
 .contact_10 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Showcase 1 */
 .showcase_1 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .showcase_1 .block a {
@@ -3063,7 +3063,7 @@ header > div > div{
 
 /* Showcase 2 */
 .showcase_2 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .showcase_2 .block a {
@@ -3076,7 +3076,7 @@ header > div > div{
 
 /* Showcase 3 */
 .showcase_3 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .showcase_3 .block {
@@ -3125,7 +3125,7 @@ header > div > div{
 
 /* Showcase 6 */
 .showcase_6 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .showcase_6 img {
@@ -3190,7 +3190,7 @@ header > div > div{
 
 /* Showcase 10 */
 .showcase_10 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .showcase_10 .block_green {
@@ -3221,7 +3221,7 @@ header > div > div{
 
 /* Footer 1 */
 .footer_1 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .footer_1 a {
@@ -3231,22 +3231,22 @@ header > div > div{
 
 /* Footer 2 */
 .footer_2 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Footer 3 */
 .footer_3 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Footer 4 */
 .footer_4 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Footer 5 */
 .footer_5 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .footer_5 input:focus {
@@ -3255,12 +3255,12 @@ header > div > div{
 
 /* Footer 6 */
 .footer_6 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 /* Footer 7 */
 .footer_7 {
-  background: #F5F5F5;
+  background:  #f8fafd;
 }
 
 .footer_7 a, .footer_7 .logo {
