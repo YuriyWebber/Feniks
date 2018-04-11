@@ -10525,18 +10525,22 @@ input[type=radio]:checked + label.radio.check_blue:before {
 }
 .button.actionButton {
     display: inline-block;
-    height: 50px;
-    width: 50px;
-    padding: 16px 0;
+    height: 44px;
+    width: 44px;
+    padding: 13px 0;
     border-radius: 25px;
     z-index: 999;
-    background: rgba(40, 40, 40, 0.6);
-    line-height: 1;
     box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.05);
+    line-height: 1;
     cursor: pointer;
     -ms-touch-action: manipulation;
     touch-action: manipulation;
-    vertical-align: top;
+    color: #75787b;
+    border: 2px solid #75787b;
+    margin-left: 45px;
+    /*vertical-align: top;
+    background: rgba(40, 40, 40, 0.6);
+    */
 }.dropdown {
   position: fixed;
   z-index: 300;

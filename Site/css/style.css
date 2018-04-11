@@ -435,7 +435,7 @@ b {
 
 /* Header 11 */
 .header_11 {
-  background: #4f8ef2;;
+  background: #eaf0f8;;
   overflow: hidden;
 }
 
@@ -843,7 +843,7 @@ b {
 
 /* Navigation 6 */
 .navigation_6 {
-  background: #4f8ef2;;
+  background: #eaf0f8;;
   position: fixed;
   
     margin-top: 0;
@@ -7249,7 +7249,7 @@ header > div > div{
   color: #8a8a8a;
 }
 .text_w {
-  color: #fff;
+
   font-size: 1em;
    margin: 5px 0 0;
 }
